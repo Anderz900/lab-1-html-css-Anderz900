@@ -1,0 +1,62 @@
+/* myStyle.css */
+body {
+    background-color: #f6f6f4;
+    color: #FFFFFF;
+   }
+   h1 {
+    color: rgb(78, 77, 77);
+    text-align: left;
+    font: 200% Helvetica;
+    position: relative;
+    bottom: 1px;
+    right: -1;
+    center: 12;
+    width: 300px;
+    }
+   p {
+    background-color: rgba(151, 151, 151, 0.233);
+    text-align: left;
+    position: relative;
+    bottom: -75px;
+    left: 30px;
+    border: 1px groove rgba(185, 184, 184, 0.575);
+   }
+   #content{
+       color: 	rgba(48, 45, 45, 0.705)   }
+    a:hover {
+        color: hotpink;
+        position: fixed;
+        bottom: 
+    }
+    #pics1{
+        position: fixed;
+        bottom: 380px;
+        right: 50px;
+        center: 12;
+        
+
+    }
+    #pics2{
+        position: fixed;
+        bottom: 40px;
+        right: 50px;
+        center: 12;
+    }
+    #pics3{
+        position: fixed;
+        bottom: 210px;
+        right: 420px;
+        center: 0px;
+    }
+    div {
+        width: 300px;
+        padding: 50px;
+        margin: 20px;
+    }
+    .btn{
+        background-color: #81120D;
+        cursor: pointer;
+        position: relative;
+        bottom: -50px;
+        font: 75% Helvetica;
+    }
